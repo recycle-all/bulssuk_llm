@@ -1,0 +1,22 @@
+Script started at Sun Dec 29 19:12:00 KST 2024
+Virtual environment activated
+2024-12-29
+오늘의 퀴즈 10문제가 생성되었습니다.
+Script finished at Sun Dec 29 19:12:12 KST 2024
+Script started at Mon Dec 30 09:30:00 KST 2024
+Virtual environment activated
+2024-12-30
+오늘의 퀴즈 10문제가 생성되었습니다.
+Script finished at Mon Dec 30 09:30:13 KST 2024
+/Users/hyeyeon/.pyenv/versions/3.10.12/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+Script started at Tue Dec 31 09:30:00 KST 2024
+Virtual environment activated
+2024-12-31
+오늘의 퀴즈 10문제가 생성되었습니다.
+Script finished at Tue Dec 31 09:30:12 KST 2024
+Script started at Wed Jan  1 13:43:00 KST 2025
+Virtual environment activated
+2025-01-01
+오늘의 퀴즈 10문제가 생성되었습니다.
+Script finished at Wed Jan  1 13:43:20 KST 2025
